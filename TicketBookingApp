@@ -1,9 +1,0 @@
-TicketBookingAPP/.classpath
-TicketBookingAPP/.gitignore
-TicketBookingAPP/.project
-TicketBookingAPP/.settings/org.eclipse.core.resources.prefs
-TicketBookingAPP/src/TicketBookingApp/java/Main.java
-TicketBookingAPP/src/TicketBookingApp/java/PaymentHandler.java
-TicketBookingAPP/src/TicketBookingApp/java/TicketBookingApp.java
-TicketBookingAPP/src/TicketBookingApp/java/package-info.java
-TicketBookingAPP/src/module-info.java
